@@ -1,0 +1,5 @@
+mobile
+laptop
+shoes
+car
+bike 
